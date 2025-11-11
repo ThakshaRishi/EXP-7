@@ -102,6 +102,12 @@ If the buyer’s offer is fair, the deal is executed.
 
 If the offer is too low, the contract suggests a counteroffer.
 
+<img width="1715" height="806" alt="image" src="https://github.com/user-attachments/assets/2802df4f-d1db-459c-9f75-1541a624e845" />
+
+<img width="1714" height="802" alt="image" src="https://github.com/user-attachments/assets/4c4c6d2f-34bb-4d69-bc27-1a4486ebbfe0" />
+
+<img width="1803" height="846" alt="image" src="https://github.com/user-attachments/assets/600d8a95-a567-4ad4-a7da-9805a654b4ff" />
+
 
 
 # High-Level Overview:
@@ -118,4 +124,4 @@ Inspired by AI-enhanced commerce and eBay-like decentralized auctions.
 
 # RESULT:
 
-
+Thus, the given experiment has been executed successfully.
